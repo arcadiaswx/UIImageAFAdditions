@@ -58,7 +58,7 @@ Objective-C
 
 ### CocoaPods
 ```
-pod 'UIImage+AF+Additions', :git => 'https://github.com/melvitax/UIImageAFAdditions.git'
+pod 'UIImage+AF+Additions', :git => 'https://github.com/teklabs/UIImageAFAdditions.git'
 ```
 
 ### Header
